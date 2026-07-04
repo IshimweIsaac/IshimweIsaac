@@ -52,7 +52,7 @@ Useful for infrastructure orchestration and distributed systems.
 
 **LUCAS**: Voice-controlled desktop assistant
 
-Stack: Python, Gemini, PyQt6, Playwright, OpenCV, FastAPI
+Stack: Python, Multi-modal, PyQt6, Playwright, OpenCV, FastAPI
 Size: 42,724 lines, 170 files, 50 test files
 
 Real-time voice assistant for Linux. Connects to multi-modal live models
@@ -67,10 +67,10 @@ Telegram bot, hot-reloader for live code updates.
 
 **VoiceAgent**: Phone receptionist for small businesses
 
-Stack: FastAPI, Twilio, Gemini, Google Calendar API, SQLAlchemy
+Stack: FastAPI, Twilio, Multi-modal, Google Calendar API, SQLAlchemy
 Size: 7,878 lines, 31 files, 172 tests
 
-Receives inbound calls via Twilio, processes through Gemini Live API,
+Receives inbound calls via Twilio, processes through Multi-modal models,
 books appointments (Google Calendar), answers FAQs, escalates to humans,
 sends SMS confirmations. Multi-tenant, web dashboard for setup. Custom
 audio pipeline with no external audio libraries.
@@ -81,7 +81,7 @@ audio pipeline with no external audio libraries.
 
 **SplitSmart**: Receipt parsing app
 
-Stack: TypeScript, Gemini 3.1 Pro
+Stack: TypeScript, Multi-modal models
 
 Upload a receipt photo, get items, prices, taxes, and tips extracted
 automatically.
