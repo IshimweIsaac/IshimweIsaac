@@ -1,7 +1,7 @@
 ## Isaac Ishimwe
 
 Software engineer in Kigali, Rwanda. I have worked on a couple software
-projects -- voice assistants, programming languages, developer tools, web
+projects: voice assistants, programming languages, developer tools, web
 apps. Currently working on Lumina (a programming language in Rust) and the
 React JS Rwanda community platform.
 
@@ -56,7 +56,7 @@ Stack: Python, Gemini, PyQt6, Playwright, OpenCV, FastAPI
 Size: 42,724 lines, 170 files, 50 test files
 
 Real-time voice assistant for Linux. Connects to Google Gemini 3.1 Flash
-Live, streams audio and screen, dispatches across 35+ modules -- desktop
+Live, streams audio and screen, dispatches across 35+ modules: desktop
 automation, browser control, swarm coding, document generation, git
 workflows, learning agents, 3-tier memory. PyQt6 UI with 31+ windows,
 Telegram bot, hot-reloader for live code updates.
