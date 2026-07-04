@@ -28,6 +28,32 @@ Currently:
 
 ### Projects
 
+**rjsrw-community**: React JS Rwanda community platform
+
+Stack: TypeScript, Next.js, Prisma, PostgreSQL, Tailwind CSS
+
+The official open-source community platform for Rwanda's React developer
+community. Features include events management, publications/blog, member
+directory, public forum, and admin dashboard. Built by and for the community.
+
+[github.com/IshimweIsaac/rjsrw-community](https://github.com/IshimweIsaac/rjsrw-community)
+
+---
+
+**Lumina**: Custom programming language
+
+Stack: Rust
+Status: Active development
+
+A statically typed, declarative, reactive programming language designed for
+modeling complex state-driven systems. Includes a full compiler pipeline and
+runtime engine written in Rust. Designed for infrastructure orchestration
+and distributed reactive systems.
+
+[github.com/IshimweIsaac/Lumina](https://github.com/IshimweIsaac/Lumina)
+
+---
+
 **LUCAS**: Voice-controlled AI desktop assistant
 
 Stack: Python, Gemini Live API, PyQt6, Playwright, OpenCV, FastAPI
@@ -44,6 +70,8 @@ hot-reloader for live code updates.
 
 [github.com/IshimweIsaac/Lucas](https://github.com/IshimweIsaac/Lucas)
 
+---
+
 **VoiceAgent**: AI phone receptionist for small businesses
 
 Stack: FastAPI, Twilio, Gemini Live API, Google Calendar API, SQLAlchemy
@@ -58,27 +86,7 @@ pipeline with no external audio libraries.
 
 [github.com/IshimweIsaac/VoiceAgent](https://github.com/IshimweIsaac/VoiceAgent)
 
-**Lumina**: Custom programming language
-
-Stack: Rust
-Status: Active development
-
-A statically typed, declarative, reactive programming language designed for
-modeling complex state-driven systems. Includes a full compiler pipeline and
-runtime engine written in Rust. Designed for infrastructure orchestration
-and distributed reactive systems.
-
-[github.com/IshimweIsaac/Lumina](https://github.com/IshimweIsaac/Lumina)
-
-**rjsrw-community**: React JS Rwanda community platform
-
-Stack: TypeScript, Next.js, Prisma, PostgreSQL, Tailwind CSS
-
-The official open-source community platform for Rwanda's React developer
-community. Features include events management, publications/blog, member
-directory, public forum, and admin dashboard. Built by and for the community.
-
-[github.com/IshimweIsaac/rjsrw-community](https://github.com/IshimweIsaac/rjsrw-community)
+---
 
 **SplitSmart**: AI receipt parsing app
 
@@ -87,23 +95,6 @@ Stack: TypeScript, Google Gemini 3.1 Pro
 Full-stack app using Gemini Pro for receipt image parsing. Automatically
 extracts items, prices, taxes, and tips from receipt photos using natural
 language understanding.
-
-**Netflix Clone**: Full-stack streaming platform UI
-
-Stack: TypeScript, Next.js, PostgreSQL, Prisma, TMDB API
-Size: 91 files, 18 API routes, 40+ components
-
-Full Netflix UI recreation with authentication, user profiles, browse page
-with categories, content detail modal, search with debounced queries, My List,
-video player, and watch history tracking.
-
-**ArchitectAI**: AI system design agent
-
-Stack: TypeScript, Gemini AI
-
-An AI-powered tool that designs system architectures based on natural language
-requirements. Generates architecture diagrams, component breakdowns, and
-technology recommendations.
 
 ***
 
