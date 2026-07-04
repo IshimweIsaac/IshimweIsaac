@@ -1,72 +1,77 @@
-<h1 align="center">Isaac Ishimwe</h1>
+## Isaac Ishimwe
+Software engineer building AI systems and infrastructure.
 
-<p align="center">
- <code>Python</code> <code>TypeScript</code> <code>Rust</code>
- <code>FastAPI</code> <code>Next.js</code> <code>Gemini AI</code>
- <code>Twilio</code> <code>PyQt6</code> <code>Docker</code>
-</p>
+Kigali, Rwanda · [ishimweisaac123@gmail.com](mailto:ishimweisaac123@gmail.com) ·
+[linkedin.com/in/ishimwe-isaac](https://linkedin.com/in/ishimwe-isaac)
 
-<p align="center">
- <b>Kigali, Rwanda</b> &middot;
- <a href="mailto:ishimweisaac123@gmail.com">ishimweisaac123@gmail.com</a> &middot;
- <a href="https://github.com/IshimweIsaac/portfolio">Portfolio</a>
-</p>
+---
 
-<hr />
+### Currently
 
-<h3>About</h3>
-<p>I build production-ready AI systems and full-stack applications. From voice-controlled desktop assistants to AI phone receptionists, I ship complete products that solve real problems.</p>
+Building production AI systems. Working with voice AI, agentic workflows, and
+full-stack infrastructure. Exited several complete products including a
+voice-controlled desktop AI (LUCAS) and an AI phone receptionist (VoiceAgent).
 
-<h3>Projects</h3>
+---
 
-<table>
- <tr>
- <td><b>LUCAS</b></td>
- <td>Real-time voice-controlled AI desktop assistant powered by Google Gemini Live API. 35+ tool modules, multi-agent swarm coding, screen vision, 3-tier memory, PyQt6 UI.</td>
- <td><code>Python</code> <code>Gemini AI</code> <code>PyQt6</code></td>
- <td><a href="https://github.com/IshimweIsaac/Lucas">View</a></td>
- </tr>
- <tr>
- <td><b>VoiceAgent</b></td>
- <td>AI phone receptionist for small businesses. Handles inbound calls, books appointments via Google Calendar, answers FAQs, and escalates to humans. 172 tests.</td>
- <td><code>Python</code> <code>FastAPI</code> <code>Twilio</code></td>
- <td><a href="https://github.com/IshimweIsaac/VoiceAgent">View</a></td>
- </tr>
- <tr>
- <td><b>Lumina</b></td>
- <td>Statically typed, declarative, reactive programming language for modeling complex state-driven systems. Written in Rust.</td>
- <td><code>Rust</code></td>
- <td><a href="https://github.com/IshimweIsaac/Lumina">View</a></td>
- </tr>
- <tr>
- <td><b>rjsrw-community</b></td>
- <td>Official community platform for Rwanda's React developer community. Events, publications, member directory, forum.</td>
- <td><code>TypeScript</code> <code>Next.js</code></td>
- <td><a href="https://github.com/IshimweIsaac/rjsrw-community">View</a></td>
- </tr>
-</table>
+### Stack
 
-<h3>Stack</h3>
+**Languages**
+Python · TypeScript · Rust · JavaScript · SQL · PHP · HTML/CSS
 
-<table>
- <tr><td>AI / ML</td><td>Google Gemini (Live API, text, embeddings), LangChain, RAG pipelines</td></tr>
- <tr><td>Backend</td><td>Python, FastAPI, Rust, Node.js, PHP</td></tr>
- <tr><td>Frontend</td><td>TypeScript, React, Next.js, PyQt6</td></tr>
- <tr><td>Infrastructure</td><td>Docker, SQLite, PostgreSQL, Linux, systemd</td></tr>
- <tr><td>APIs</td><td>Twilio (Voice, SMS), Google Calendar, Gemini, GitHub CLI</td></tr>
-</table>
+**AI & Agents**
+Google Gemini (Live API, Pro, Flash, embeddings) · LangChain · RAG pipelines ·
+Prompt engineering · Tool-using agents · Multi-agent orchestration
 
-<h3>Stats</h3>
+**Backend**
+FastAPI · Node.js · Express · SQLAlchemy · PostgreSQL · SQLite · Redis
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=IshimweIsaac&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" />
-</p>
+**Frontend**
+React · Next.js · PyQt6 · Jinja2 · Tailwind CSS
 
-<hr />
+**Developer Tools**
+Cursor · Claude Code · Windsurf · OpenCode · VS Code · Git · GitHub CLI ·
+Playwright · Docker · systemd · nginx · ngrok · Postman
 
-<p align="center">
- <a href="mailto:ishimweisaac123@gmail.com">ishimweisaac123@gmail.com</a> &middot;
- <a href="https://github.com/IshimweIsaac">GitHub</a> &middot;
- <a href="https://github.com/IshimweIsaac/portfolio">Portfolio</a> &middot;
- Kigali, Rwanda
-</p>
+**Infrastructure & DevOps**
+Linux (Fedora) · Docker · systemd · CI/CD · Nginx · Bash · Kubernetes (basics)
+
+**APIs & Services**
+Twilio (Voice, SMS, Media Streams) · Google Calendar · Gemini · GitHub API ·
+REST · WebSockets · Telegram Bot API
+
+---
+
+### Projects
+
+**LUCAS** · Voice-controlled AI desktop assistant
+Python, Gemini Live API, PyQt6, Playwright, OpenCV, 35+ tool modules,
+multi-agent swarm coding, real-time screen vision, 3-tier memory system.
+42,000+ lines, 50 test files.
+[github.com/IshimweIsaac/Lucas](https://github.com/IshimweIsaac/Lucas)
+
+**VoiceAgent** · AI phone receptionist for small businesses
+FastAPI, Twilio, Gemini Live API, Google Calendar API, async SQLAlchemy.
+Handles inbound calls, books appointments, answers FAQs, escalates to humans.
+172 tests.
+[github.com/IshimweIsaac/VoiceAgent](https://github.com/IshimweIsaac/VoiceAgent)
+
+**Lumina** · Custom programming language
+Rust. Statically typed, declarative, reactive language for state-driven systems.
+Full compiler and runtime engine.
+[github.com/IshimweIsaac/Lumina](https://github.com/IshimweIsaac/Lumina)
+
+**rjsrw-community** · Rwanda React developer community platform
+TypeScript, Next.js. Events, publications, member directory, forum.
+[github.com/IshimweIsaac/rjsrw-community](https://github.com/IshimweIsaac/rjsrw-community)
+
+---
+
+### Education
+
+BSc in Software Engineering · UNILAK (University of Lay Adventists of Kigali)
+
+---
+
+[github.com/IshimweIsaac](https://github.com/IshimweIsaac) ·
+[linkedin.com/in/ishimwe-isaac](https://linkedin.com/in/ishimwe-isaac)
